@@ -1,4 +1,16 @@
 aid: nyriad
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nyriad.png
 name: Nyriad
 description: Nyriad is a company surfaced as a portfolio company of dcvc and added to the API Evangelist
   network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
@@ -11,7 +23,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+x-status: defunct
+x-status-note: 'Nyriad (GPU-accelerated erasure-coding storage, UltraIO product) is
+  no longer operating. Domains nyriad.com, nyriad.io and nyriad.co.nz do not resolve;
+  nyriad.ai is a parked/for-sale domain (Sedo). No GitHub org, developer portal, or
+  API surface exists. Storage technology continued under the Daedalus Cloud brand.'
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
 tags:
 - Company
 apis: []
