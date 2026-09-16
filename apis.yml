@@ -34,12 +34,12 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 x-status: defunct
-x-status-note: 'Nyriad (GPU-accelerated erasure-coding storage, UltraIO product) is
-  no longer operating. Domains nyriad.com, nyriad.io and nyriad.co.nz do not resolve;
-  nyriad.ai is a parked/for-sale domain (Sedo). No GitHub org, developer portal, or
-  API surface exists. Storage technology continued under the Daedalus Cloud brand.'
+x-status-note: Nyriad (GPU-accelerated erasure-coding storage, UltraIO product) is no longer operating.
+  Domains nyriad.com, nyriad.io and nyriad.co.nz do not resolve; nyriad.ai is a parked/for-sale domain
+  (Sedo). No GitHub org, developer portal, or API surface exists. Storage technology continued under the
+  Daedalus Cloud brand.
 x-enrichment:
   date: '2026-07-20'
   status: nochange
@@ -47,6 +47,7 @@ x-enrichment:
   pass: local-v1
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
